@@ -71,7 +71,7 @@ yarn start</code></pre></li>
 <h2>Estrutura do Projeto</h2>
 
 <pre><code>
-nome-do-repositorio/
+my-app/
   ├── src/
   │   ├── components/
   │   │   ├── Board.js
