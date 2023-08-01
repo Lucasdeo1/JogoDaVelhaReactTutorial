@@ -1,15 +1,5 @@
 # JogoDaVelhaReactTutorial
-<!DOCTYPE html>
-<html>
-<head>
-  <meta charset="UTF-8">
-  <title>Jogo da Velha com React.js</title>
-</head>
-<body>
 
-<div align="center">
-  <img src="project_banner.png" alt="Jogo da Velha" width="500">
-</div>
 
 <h1 align="center">Jogo da Velha com React.js</h1>
 
