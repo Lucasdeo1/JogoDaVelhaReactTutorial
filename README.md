@@ -74,9 +74,9 @@ yarn start</code></pre></li>
 my-app/
   ├── src/
   │   ├── components/
-  │   │   ├── Board.js
-  │   │   ├── Cell.js
-  │   ├── App.js
+  │   │  
+  │   │   
+  │   ├── index.css
   │   ├── index.js
   ├── package.json
   ├── README.md
