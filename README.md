@@ -1,19 +1,5 @@
 <h1 align="center">Jogo da Velha com React.js</h1>
 
-<p align="center">
-  <a href="https://github.com/seu-usuario/nome-do-repositorio/releases">
-    <img alt="GitHub release" src="https://img.shields.io/github/release/seu-usuario/nome-do-repositorio.svg" />
-  </a>
-  <a href="https://github.com/seu-usuario/nome-do-repositorio/blob/main/LICENSE">
-    <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
-  </a>
-  <a href="https://github.com/seu-usuario/nome-do-repositorio/issues">
-    <img alt="GitHub issues" src="https://img.shields.io/github/issues/seu-usuario/nome-do-repositorio" />
-  </a>
-  <a href="https://github.com/seu-usuario/nome-do-repositorio/actions/workflows/ci.yml">
-    <img alt="CI" src="https://github.com/seu-usuario/nome-do-repositorio/actions/workflows/ci.yml/badge.svg" />
-  </a>
-</p>
 
 <p align="center">
   <strong>Um jogo da velha interativo feito com React.js.</strong>
