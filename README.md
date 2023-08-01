@@ -13,7 +13,7 @@
 
 <h2>Demonstração</h2>
 
-<p>Veja o jogo em ação: <a href="https://seu-link-da-demo.com">Demo</a></p>
+<p>Veja o jogo em ação: <a href="https://codesandbox.io/s/723948?file=/App.js&utm_medium=sandpack">Demo</a></p>
 
 <p align="center">
   <img src="demo.gif" alt="Demo" width="600">
